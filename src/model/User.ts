@@ -8,6 +8,7 @@ export class User {
   middleName: string;
   name: string;
   password: string;
+
   phone: string;
   idPosition: number;
   roles: Role[];
